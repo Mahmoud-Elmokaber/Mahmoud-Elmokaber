@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**Mahmoud-Elmokaber/Mahmoud-Elmokaber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 Hello! I'm Mahmoud Almokaber
+🎓 A passionate student currently studying computer engineering and automatic control at Tanta Univedity  
+🌱 Learning and exploring .Net web development  
+💻 Working on exciting projects to solve real-world problems.  
+## 📝 Technical Proficiencies 
+- 📚 Studied fundamental computer science topics, including:  
+  - **Databases**: Designing and managing structured data storage systems.  
+  - **Data Structures**: Implementing and optimizing algorithms with structures like arrays, trees, and graphs.  
+  - **Object-Oriented Programming (OOP)**: Developing modular and reusable software using principles like encapsulation and inheritance.  
+  - **Problem-Solving**: Tackling complex coding challenges and algorithmic thinking.
+  - 
+## 🛠️ Technologies and Tools
+- Programming: C, C++ , C#, Python, Sql  
+- Frameworks: .Net 
+- Tools: Git, Github,  VS Code, VS Community
