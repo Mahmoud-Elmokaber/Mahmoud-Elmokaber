@@ -12,4 +12,4 @@
 ## 🛠️ Technologies and Tools
 - Programming: C, C++ , C#, Python, Sql  
 - Frameworks: .Net 
-- Tools: Git, Github,  VS Code, VS Community
+- Tools:  VS Code, VS Community , Ssms , Matlab
