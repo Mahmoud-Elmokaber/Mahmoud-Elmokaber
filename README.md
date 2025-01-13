@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Mahmoud Almokaber
+## 👋 Hello! I'm Mahmoud 
 🎓 A passionate student currently studying computer engineering and automatic control at Tanta Univedity  
 🌱 Learning and exploring .Net web development  
 💻 Working on exciting projects to solve real-world problems.  
@@ -11,5 +11,5 @@
   - 
 ## 🛠️ Technologies and Tools
 - Programming: C, C++ , C#, Python, Sql  
-- Frameworks: .Net 
-- Tools:  VS Code, VS Community , Ssms , Matlab
+- Framework: .Net 
+
