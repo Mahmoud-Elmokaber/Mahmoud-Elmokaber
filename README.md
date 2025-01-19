@@ -1,5 +1,5 @@
 ## 👋 Hello! I'm Mahmoud 
-🎓 A passionate student currently studying computer engineering and automatic control at Tanta Univedity  
+🎓 A passionate student currently studying computer engineering and automatic control at Tanta Univesity  
 🌱 Learning and exploring .Net web development  
 💻 Working on exciting projects to solve real-world problems.  
 ## 📝 Technical Proficiencies 
