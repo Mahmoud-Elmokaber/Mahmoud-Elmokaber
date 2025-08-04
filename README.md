@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm Mahmoud</h1>
-<h3 align="center">A passionate student currently studying computer engineering and automatic control at Tanta University</h3>
+<h3 align="center">A Full-Stack Web Developer</h3>
 
-- 🔭 I’m currently working on [TechXpress E-commerce Platform. with ASP.NET Core](https://github.com/RenadAlshooni/SWD5_S2_T3)
+- 🌱 I’m currently studying **Front-End Development with Angular**
 
-- 🌱 I’m currently learning **.Net framework and related technologies.**
-## 📝 Technical Proficiencies 
+## 🛠️ Core Development Skills  
+- 💻 Experienced in building web applications using **.NET Framework**, **.NET Core**, and **C#**  
+- 🧱 Familiar with **ASP.NET Web Forms** and building RESTful APIs using **ASP.NET Core**  
+- 🗂️ Used **Entity Framework (EF/Core)** and **LINQ** for data access  
+- 🧼 Practice writing **clean, maintainable, and well-architected code** based on solid **OOP principles**
+
+## 📝 Technical Proficiencies  
 - 📚 Studied fundamental computer science topics, including:  
-  - **Databases**: Designing and managing structured data storage systems.  
-  - **Data Structures**: Implementing and optimizing algorithms with structures like arrays, trees, and graphs.  
-  - **Object-Oriented Programming (OOP)**: Developing modular and reusable software using principles like encapsulation and inheritance.  
-  - **Problem-Solving**: Tackling complex coding challenges and algorithmic thinking.
+  - **Databases**: Designing and managing structured data storage systems  
+  - **Data Structures**: Implementing and optimizing algorithms with structures like arrays, trees, and graphs  
+  - **Object-Oriented Programming (OOP)**: Developing modular and reusable software using principles like encapsulation and inheritance  
+  - **Problem-Solving**: Tackling complex coding challenges and algorithmic thinking
 
 ## 📫 How to reach me **mahmoudelmokaber4@gmail.com**
 
